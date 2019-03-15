@@ -9,8 +9,9 @@ Portraits of Territory
 - Conclusion—On Creations and Appropriations of a Portrait
 - Sources
 
-	![Jules Verne’s Off on a Comet](images/jules-verne-off-on-a-comet.jpg)
-	*Jules Verne’s *Off on a Comet*, drawing by Paul Philippoteaux, 1877*
+![Jules Verne’s Off on a Comet](images/jules-verne-off-on-a-comet.jpg)
+
+*Jules Verne’s *Off on a Comet*, drawing by Paul Philippoteaux, 1877*
 
 
 Introduction—Of One Territory and its Representations
@@ -40,8 +41,9 @@ The drawings carry the idea of unique territory as a “World”. The World is n
 
 The mappa mundi (name given today to medieval world representations) printed in Jean Mansel’s *La Fleur des Histoires* [4] (The Flower of Histories), a manuscript narrating history from the genesis—a “global” starting point for the people of the World—to its contemporary french time, thus doesn’t represent the known territories through functional features. This kind of representations were not meant to be used by geographers or navigators: more detailed maps of seas and borders, of smaller precise territories existed at the time for those functions.
 
-	![French mappa mundi attributed to Simon Marmion, in Jean Mansel’s La Fleur des Histoires](images/mappa-mundi.jpg)
-	*French mappa mundi attributed to Simon Marmion, in Jean Mansel’s *La Fleur des Histoires*. Valenciennes, 1459–1463. It represents three “continental” island organised around the fertile crescent, cradle of christianity. Asia on the top, Europe on the bottom left and Africa on the bottom right (the concept of continents and their names would be developed later).*
+![French mappa mundi attributed to Simon Marmion, in Jean Mansel’s La Fleur des Histoires](images/mappa-mundi.jpg)
+
+*French mappa mundi attributed to Simon Marmion, in Jean Mansel’s *La Fleur des Histoires*. Valenciennes, 1459–1463. It represents three “continental” island organised around the fertile crescent, cradle of christianity. Asia on the top, Europe on the bottom left and Africa on the bottom right (the concept of continents and their names would be developed later).*
 
 Known as a T & O map, this mappa mundi depicts a World seen through a cultural, historical and religious scope: around the fertile crescent, the land considered at the time to be the birth of civilisation, are organised three continents, three islands connected to three different civilisations: one at the top representing the continent we would called Asia today, Europe on the bottom left, and Africa on the bottom right. Those three islands, in a shape of T, were enclosed in the O of a round planet of water, without taking account of the later standards establishing the relation “north=top”.
 
@@ -49,8 +51,9 @@ This mappa mundi did not hide its empirical nature. The function of the image be
 
 Approximatively five centuries later, Saul Steinberg’s cover for The New Yorker, entitled “View of the World from 9th Avenue”, though intentionally ironical and reducing, describes a World’s point of view from an apparently rather similar approach. The emphasis of his personal point of view—supposedly being a ironical New Yorker’s way of seeing the World—leads to an over exaggerating contrast between a view of Manhattan, represented in a fashion that could recall through its perspective the human sight, the Hudson river that still keeps an importance, the rest of the US which are reduced to a simple unprecised square stuck in between other territories, with the arrogance of only drawing a few table rocks to overview a landscape. The rest of the known territory, disappears beyond a ridiculously small ocean, with left behind words on white landmasses, to recall its shadow.
 
-	![Saul Steinberg’s cover for The New Yorker](images/steinberg.jpg)
-	*Saul Steinberg’s cover for The New Yorker, untitled “View of the world from 9th Avenue”, 1976*
+![Saul Steinberg’s cover for The New Yorker](images/steinberg.jpg)
+
+*Saul Steinberg’s cover for The New Yorker, untitled “View of the world from 9th Avenue”, 1976*
 
 As such the drawn World always takes a certain distance to its reality, being the point of view of an author, far from the restrictions of functionality in a unique thus non dominant posture, it interprets within an author’s perspective the idea of a unique territory.
 
@@ -72,18 +75,21 @@ The printed Globe did not change much since the XV° century, as map projections
 
 The printed Globe, as it evolves during the industrial revolution, as mass produced images, had totally lost its aura as object, and was going toward a status of unique object to a dematerialized object which only value is the mathematical, rather accurate global territory it carries. The image, established as standard in all the conquered places had also lost its initial function of navigational object, to carry the true lines of political control and oppression.
 
-	![United Nations World map 09/12/13](images/un-official-world.jpg)
-	*United Nations World map 09/12/13, downloaded on *The United Nations Cartographic Section*, <a href="http://www.un.org/Depts/Cartographic/english/">http://www.un.org/Depts/Cartographic/english/</a>*
+![United Nations World map 09/12/13](images/un-official-world.jpg)
+
+*United Nations World map 09/12/13, downloaded on *The United Nations Cartographic Section*, <a href="http://www.un.org/Depts/Cartographic/english/">http://www.un.org/Depts/Cartographic/english/</a>*
 
 The United Nations’ “The World” printed Globe expresses a paroxysm of this shift from a small produced functional printed globe to an object building arbitrary informations over the scientific aura of the image. The U.N. printed Globe inherits some particular features from the navigational Mercator projection: North on the top and South on the Bottom, Equator in the center, and deformations due to the flattening of the Globe on a rectangle. All the informations related to the territory as a space are omitted except the borders of oceans, represented within perfect accurate shapes, which are printed with the same graphical code than the constructed borders of nations, giving the latter a natural scientific value. But those borders, printed as natural shapes, are renewed at every new unstable political change, and the new version replaces the former, which stays unable to access, as a embarrassing archive of political map.
 
-	![Bernard J.S. Cahill’s Butterfly Map](images/js-cahill-butterfly-map.jpg)
-	*Bernard J.S. Cahill’s *Butterfly Map*, first published in the article *An Account of a new land map of the world*, in The Scottish Geographical Magazine, 1909; further elaborated in *A World Map to End World Maps*, 1934*
+![Bernard J.S. Cahill’s Butterfly Map](images/js-cahill-butterfly-map.jpg)
+
+*Bernard J.S. Cahill’s *Butterfly Map*, first published in the article *An Account of a new land map of the world*, in The Scottish Geographical Magazine, 1909; further elaborated in *A World Map to End World Maps*, 1934*
 
 The omnipresence of the mathematical Mercator projection, deforming the sizes of continents, getting bigger as far a they were from the equator, but which is the most useful one when it comes to maritime navigation, led a lot of cartographers and thinkers to propose new mathematical projection that would distribute the land masses more evenly, and more accurately on the printed Globe. As J.S. Cahill would propose in the early XX° century such a map [6], for the purposes of offering a global Globe projection that would be more accurate to learn the structures and lines of the real lands, those alternative Globe projection became loaded with political resonance. Because the territories emanating from the printed globe could not be separated from their political implications, the globe projections by Buckminster-Fuller, and later by Peters would serve as political images of the new territories emerging from decolonisation, and utopian political movements.
 
-	![Marcel Broodthaers, Carte du monde poétique](images/marcel-broodthaers-carte-du-monde-poetique.jpg)
-	*Marcel Broodthaers, *Carte du monde poétique*, 1968*
+![Marcel Broodthaers, Carte du monde poétique](images/marcel-broodthaers-carte-du-monde-poetique.jpg)
+
+*Marcel Broodthaers, *Carte du monde poétique*, 1968*
 
 Marcel Broodthaers in its *Monde Poétique* (Poetical World) emphasis on the distortion created by the juxtaposition of the ocean natural lines and the national borders, presented on a absolute same scale, revealing by an apparent writing mistake (“Monde Politique” becomes “Monde Poétique”) the poetical arbitrariness and artificiality of the political printed Globe. An action that could recall René Magritte’s *The Treachery of Images*, on which the act of writing reveals the gap between the reality of an object and the shifted state of reality of its representation.
 
@@ -91,8 +97,9 @@ Marcel Broodthaers in its *Monde Poétique* (Poetical World) emphasis on the dis
 III—The Photographed Earth
 --------------------------
 
-	![First television picture of Earth from space](images/earth-from-satellite-tiros-1.jpg.jpg)
-	*First television picture of Earth from space, taken April 1, 1960 from TIROS­-1, first orbital satellite carrying a camera with television transmitter, launched the same day from Florida, U.S.*
+![First television picture of Earth from space](images/earth-from-satellite-tiros-1.jpg.jpg)
+
+*First television picture of Earth from space, taken April 1, 1960 from TIROS­-1, first orbital satellite carrying a camera with television transmitter, launched the same day from Florida, U.S.*
 
 In 1966, TIROS-10, the last satellite from a program that first sent partial pictures of Earth was deactivated. 23 days later, the Lunar Orbiter I satellite was in orbit around the Moon to map its surface in prevision of the Apollo program. The scientists in charge of the satellite took the opportunity to shift the direction of the camera to capture the first picture of the full Earth, thus endangering the mission. Those distant sight did not carry scientific data, the Earth was obviously known to be round. The latter picture was even shot under a certain uncontrolled excitement. Through the fat grain, wave alterations and random framing of these radio transmitted, reconstructed photographs, one could reach towards experiencing the planet as a limited, naturally bordered land.
 
@@ -100,8 +107,9 @@ The idea of a global territory as the Earth, the planet, explodes through its ph
 
 The photographed Earth, generating an idea of a territory separated from human constructions, often linked to power, was quickly used as a symbol for global utopian politics. The first *Whole Earth Catalog* [7] used it as a manifesto on its cover page, as a global symbol of its utopian ambitions. The aim of the catalog was to collect an extensive collection of manuals to build tools, useful objects, and technological devices, with the ideal of liberating the individuals, or the group of individuals from the powers controlling the knowledges to build such tools and devices. The catalog being sold to an affordable price, it would allowed earthwide communities to live and develop autonomously toward those powers, with a shared contemporary knowledge. Its editor Stewart Brand saw in this picture a symbol, a trigger for a collective consciousness of belonging to a same community, a phenomenon that would fit his ideals of peace, and global autonomy for the individuals and small communities. Worshiping both the idea of independence toward powers of knowledge, economy and politics, and the idea of technological and scientific progress that was brought by the technologies of the photographed Earth.
 
-	![Cover of the first Whole Earth Catalog](images/whole-earth-catalog.jpg)
-	*Cover of the first *Whole Earth Catalog*, Fall 1968*
+![Cover of the first Whole Earth Catalog](images/whole-earth-catalog.jpg)
+
+*Cover of the first *Whole Earth Catalog*, Fall 1968*
 
 But the territory generated by the photographed Earth embedded another layer of lecture. The photographed Earth was a representation resulting from two main technological achievements in the United States: the progress of the television waves broadcasting and the ability to send satellites in gravitational orbit. The mastering of the television broadcast would allow media powers to diffuse a single information, without debating opposition, through an increasing amount of territories, a strategy of deep, soft power. The images of the first man on the moon, in 1968, with a black and white stars and stripes artificially floating in the striking landscape of Moon under earthlight would be the most seen event on television before a long time. The ability to send satellites in orbit, and their capacity to photograph the whole unreached and unstudied lands on the planet, to store accurate data of all the continental lines, the shapes of the deep rivers lost through the unaccessed forests, the isolated islands and the precise relief of Antarctica would turn the territory lines of the printed Globe into undeniable scientific data, giving it a new scientifically exact accuracy, and thus to all the informations that would be overlapped to its printed structure. The reality of the photographed Earth would turn the printed Globe to a representation of reality. The photographed Earth, which could have been a symbol for a territory liberated from the arbitrariness of cultural and social signs of the territory was more than ever the manifestation of the military, cultural and political power of a few nations.
 
@@ -113,11 +121,13 @@ IV—The Online Map
 
 The online map territory sanctuaries the triumph of the individual using the map as a tool to locate and orientate oneself. The whole territory it generates is centered on the one spectator of the online tool. The tools of the zoom and the drag allow and influence the user of the online Map to center the territory on himself. The stiffness of the scale, which characterizes all the over representations of territory blows up as the spectator of the online map zooms from a macro representation of the territory, inherit from the Mercator projection of the printed Globe, to the street one locates oneself. The loading of the U.S. based Google Maps, the Chinese based Baiku and other online Map services from a fixed computer as well as a portable devices center the map on the spectator. The informations overlay and collapse each other: real-time traffic, political borders, photographic Earth views, and commercial informations. But thus, the online Map does not challenge the spectator: as an algorithmic designed tool, the map proposes the spectator what he needs, hiding its limits, its unreachable parts under an overload of informations. The Map seems to become, through its presets, the personal territory of its user, only taking form through its functionalities.
 
-	![Saul Steinberg’s cover for The New Yorker](images/google-maps.png)
-	**Google Maps*, 2004–ongoing, <a href="http://maps.google.com">https://maps.google.com*
+![Saul Steinberg’s cover for The New Yorker](images/google-maps.png)
 
-	![Saul Steinberg’s cover for The New Yorker](images/baidu-map.png)
-	**Baidu Map*, 2010–ongoing, <a href="https://map.baidu.com">https://map.baidu.com</a>*
+**Google Maps*, 2004–ongoing, <a href="http://maps.google.com">https://maps.google.com*
+
+![Saul Steinberg’s cover for The New Yorker](images/baidu-map.png)
+
+**Baidu Map*, 2010–ongoing, <a href="https://map.baidu.com">https://map.baidu.com</a>*
 
 The accurate shapes of the globe are not important on the online Map, they are not subject to contradictions, differentiations or concurrency. All the online map services, from United States, Europe, Asia and Middle East are all using the Mercator projection as a structural background, a standardize, undeniable shaped territory that they inherit from its long heritage as printed Globe, and because its characteristics make it, with a totally different meaning that the one it was designed for, the most useful projection to be used as a scalable online Map. Thus the generalization of the online Map makes it collide with the usages of the maps of more defined territories as much as with the printed Globe, which usages tend to become the archive of a territory that for long only took form through the structure of its lines.
 
@@ -125,11 +135,13 @@ But instead of the printed Globe, the online Map generates a global territory de
 
 But a look at the 1977 *Arpanet Logical Map*, the really early network that would evolve into the World Wide Web, clearly reveals that the apparent dematerialization of the online Map relies on a network of deeply physical electronic devices. On the Arpanet Map, all the servers are located on the United States territory (one in Hawaii) except one being in London but connected directly and only to the American physical network. The esthetic of the map, evoking a virtual plan of electric circuits explicits through a simple diagram the inherent electronic materiality of the online territory.
 
-	![JODI, %20NETWORK](images/jodi-network.png)
-	*JODI, *%20NETWORK*, <a href="http://map.jodi.org">http://map.jodi.org</a>*
+![JODI, %20NETWORK](images/jodi-network.png)
 
-	![Arpanet Logical Map](images/arpanet-logical-map.png)
-	**Arpanet Logical Map*, 1977*
+*JODI, *%20NETWORK*, <a href="http://map.jodi.org">http://map.jodi.org</a>*
+
+![Arpanet Logical Map](images/arpanet-logical-map.png)
+
+**Arpanet Logical Map*, 1977*
 
 Although the global territories of the online Map seem disconnected from any material reality, being accessible everywhere, the user is only consulting the map, and never owns the representation of the global territory generated by the online Map. In fact, every online map services exist only in one place, fixed, private, that can only be reached, and never more than visited, through their uniform resource locator, URL, commonly name as the web address. Google maps can easily be consulted at <a href="https://maps.google.com">https://maps.google.com</a>, and this network of clearly defined addresses, explicits the nature of the online territory: a maze of private owned physical places and electronic devices, broadcasting from material locations.
 
@@ -159,5 +171,6 @@ Sources
 8. Thomas Pynchon, *Gravity’s Rainbow*, 1973
 9. Jorge Luis Borges, *On Exactitude in Science*, 1946
 
-	![Michael Maier, Emblem from Atalanta Fugiens](images/michael-maier-emblem-from-atalanta-fugiens.jpg)
-	*Michael Maier, *Emblem from Atalanta Fugiens*, 1617*
+![Michael Maier, Emblem from Atalanta Fugiens](images/michael-maier-emblem-from-atalanta-fugiens.jpg)
+
+*Michael Maier, *Emblem from Atalanta Fugiens*, 1617*
