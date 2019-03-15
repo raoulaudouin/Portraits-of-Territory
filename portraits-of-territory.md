@@ -94,7 +94,7 @@ The omnipresence of the mathematical Mercator projection, deforming the sizes of
 Marcel Broodthaers in its *Monde Poétique* (Poetical World) emphasis on the distortion created by the juxtaposition of the ocean natural lines and the national borders, presented on a absolute same scale, revealing by an apparent writing mistake (“Monde Politique” becomes “Monde Poétique”) the poetical arbitrariness and artificiality of the political printed Globe. An action that could recall René Magritte’s *The Treachery of Images*, on which the act of writing reveals the gap between the reality of an object and the shifted state of reality of its representation.
 
 
-IIII. The Photographed Earth
+III. The Photographed Earth
 ----------------------------
 
 ![First television picture of Earth from space](images/earth-from-satellite-tiros-1.jpg)
