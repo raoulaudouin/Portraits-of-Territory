@@ -169,7 +169,7 @@ Sources
 4. Jean Mansel, *La Fleur des Histoires*, 1480
 5. Élysée Reclus, *La terre, description des phénomènes de la vie du globe*, 1868
 6. J.S. Cahill, *An Account of a New Land Map of the World, The Scottish Geographical Magazine*, 1909
-7. Stewart Brand, *Whole Earth Catalog, #1010*, 1968
+7. Stewart Brand, *Whole Earth Catalog*, 1968
 8. Thomas Pynchon, *Gravity’s Rainbow*, 1973
 9. Jorge Luis Borges, *On Exactitude in Science*, 1946
 
