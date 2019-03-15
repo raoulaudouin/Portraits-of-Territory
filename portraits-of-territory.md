@@ -166,7 +166,7 @@ Sources
 1. Jean Baudrillard, *Simulacres et Simulation*, 1981
 2. Marshall McLuhan, *The Gutenberg Galaxy: The Making of Typographic Man*, 1962
 3. Marshall McLuhan, *Understanding Media: The Extensions of Man*, 1964
-4.  Jean Mansel, *La Fleur des Histoires*, 1480
+4. Jean Mansel, *La Fleur des Histoires*, 1480
 5. Élysée Reclus, *La terre, description des phénomènes de la vie du globe*, 1868
 6. J.S. Cahill, *An Account of a New Land Map of the World, The Scottish Geographical Magazine*, 1909
 7. Stewart Brand, *Whole Earth Catalog, #1010*, 1968
