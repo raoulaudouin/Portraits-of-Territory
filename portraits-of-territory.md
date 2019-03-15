@@ -11,7 +11,7 @@ Portraits of Territory
 
 ![Jules Verne’s Off on a Comet](images/jules-verne-off-on-a-comet.jpg)
 
-*Jules Verne’s* Off on a Comet, drawing by Paul Philippoteaux, 1877
+> *Jules Verne’s *Off on a Comet*, drawing by Paul Philippoteaux, 1877*
 
 
 Introduction: Of One Territory and its Representations
