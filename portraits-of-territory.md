@@ -35,7 +35,7 @@ Baudrillard’s point of view takes under McLuhan’s reading another perspectiv
 
 
 I. The Drawn World
------------------
+------------------
 
 Drawings carry the idea of unique territory as a “World”. The World is not a land, a space. Accurate shapes and borders are thus superficial in the territory as World: there is no reason to locate something geographically on the World. The World is detached from reality and does not serve any functional meaning, the World acknowledges its nature as a story. It manifests itself into a narration, a unique plot to support one specific point of view, the single perspective of an author on one idea of unique territory, through evolving esthetics and choices of representation. Because it manifest itself through drawings, the World is also represented through a single object, a piece of art: a drawn World, through its uniqueness, its authorship and its narrative nature has an aura. It borrows structures to the real world: geographical, cultural, and natural details to build a unique artifact disconnected from its reality.
 
@@ -59,7 +59,7 @@ As such the drawn World takes a certain distance to its reality, being the point
 
 
 II. The Printed Globe
---------------------
+---------------------
 
 The printed Globe appears at the same time than the development of printing processes, great discoveries and technical achievements. The discovery of America and its report on the printed Globe makes a break in the representation of the territory: flattened on a flat rectangle of paper, the Globe becomes an unfinished image that has to be filled with conquests and discoveries. Two races go side by side: discovering new territories, establishing borders of continents and limits of oceans; and filling with upcoming lines the missing parts to be linked of the printed Globe.
 
@@ -77,7 +77,7 @@ The printed Globe, as it evolved during the industrial revolution, as mass produ
 
 ![United Nations World map 09/12/13](images/un-official-world.png)
 
-*United Nations World map 09/12/13, downloaded on *The United Nations Cartographic Section*, <a href="http://www.un.org/Depts/Cartographic/english/">http://www.un.org/Depts/Cartographic/english/</a>*
+*United Nations World map 09/12/13, downloaded on *The United Nations Cartographic Section*, http://www.un.org/Depts/Cartographic/english/*
 
 The United Nations’ “The World” printed Globe expresses a paroxysm of this shift from a small produced functional printed globe to an object building arbitrary informations over the scientific aura of the image. The U.N. printed Globe inherits some particular features from the navigational Mercator projection: North on the top and South on the Bottom, Equator in the center, and deformations due to the flattening of the Globe on a rectangle. All the informations related to the territory as a space are omitted except the borders of oceans, represented within perfect accurate shapes, which are printed with the same graphical code than the constructed borders of nations, giving the latter a natural scientific value. But those borders, printed as natural shapes, are renewed at every new unstable political change, and the new version replaces the former, which stays unable to access, as a embarrassing archive of political map.
 
@@ -95,7 +95,7 @@ Marcel Broodthaers in its *Monde Poétique* (Poetical World) emphasis on the dis
 
 
 IIII. The Photographed Earth
---------------------------
+----------------------------
 
 ![First television picture of Earth from space](images/earth-from-satellite-tiros-1.jpg)
 
@@ -117,7 +117,7 @@ Ironically, the first photograph of Earth was taken by a United States program, 
 
 
 IV. The Online Map
------------------
+------------------
 
 The online Map territory sanctuaries the triumph of the individual using the map as a tool to locate and orientate oneself. The whole territory it generates is centered on the one spectator of the online tool. The tools of the zoom and the drag allow and influence the user of the online Map to center the territory on himself. The stiffness of the scale, which characterizes all the over representations of territory blows up as the spectator of the online map zooms from a macro representation of the territory, inherited from the Mercator projection of the printed Globe, to the street one locates oneself.
 
@@ -125,19 +125,19 @@ The loading of the U.S. based Google Maps, the Chinese based Baiku and other onl
 
 ![Google Maps](images/google-maps.png)
 
-**Google Maps*, 2004–ongoing, <a href="http://maps.google.com">https://maps.google.com*
+**Google Maps*, 2004–ongoing, https://maps.google.com*
 
 ![Baidu Map](images/baidu-map.png)
 
-**Baidu Map*, 2010–ongoing, <a href="https://map.baidu.com">https://map.baidu.com</a>*
+**Baidu Map*, 2010–ongoing, https://map.baidu.com</a>*
 
 The accurate shapes of the globe are not important on the online Map for they are not subject to contradictions, differentiations or concurrency. All the online map services, from United States, Europe, Asia and Middle East are all using the Mercator projection as a structural background, a standardized, undeniable shaped territory that they inherited from its long heritage as printed Globe, and because its characteristics make it, with a totally different meaning that the one it was designed for, the most useful projection to be used as a scalable online Map. Thus the generalization of the online Map makes it collide with the purpose of the maps of more defined territories as much as with the printed Globe, which progressively becomes the archive of a territory that for a long time only took form through the structure of its lines.
 
-As opposed to the printed Globe, the online Map generates a global territory dematerialized: the Map does not show one real territory, it shows as many territories as there are users, it is never fixed and every connection generates a new idea of territory, both global and individual, with its own specific details. It seems to be accessible everywhere, not linked anymore to the restrictions of the physical object. This separation between a physical location and an online territory, this idea that the World Wide Web is autonomous from the physical territory, or at least not more than parallel to the real territory, was early used by the collective of web artists JODI, on their website <a href="http://map.jodi.org">http://map.jodi.org</a> to build their own online territory, on which a collections of projects would be linked or separated by artificial, virtual borders.
+As opposed to the printed Globe, the online Map generates a global territory dematerialized: the Map does not show one real territory, it shows as many territories as there are users, it is never fixed and every connection generates a new idea of territory, both global and individual, with its own specific details. It seems to be accessible everywhere, not linked anymore to the restrictions of the physical object. This separation between a physical location and an online territory, this idea that the World Wide Web is autonomous from the physical territory, or at least not more than parallel to the real territory, was early used by the collective of web artists JODI, on their website http://map.jodi.org to build their own online territory, on which a collections of projects would be linked or separated by artificial, virtual borders.
 
 ![JODI, %20NETWORK](images/jodi-network.png)
 
-*JODI, *%20NETWORK*, <a href="http://map.jodi.org">http://map.jodi.org</a>*
+*JODI, *%20NETWORK*, http://map.jodi.org*
 
 But a look at the 1977 *Arpanet Logical Map*, the network that would evolve into the World Wide Web, clearly reveals that the apparent dematerialization of the online Map relies on a network of deeply physical electronic devices. On the Arpanet Map, all the servers are located on the United States territory (one in Hawaii) except one being in London but connected directly and only to the American physical network. The esthetic of the map, evoking a virtual plan of electric circuits explicits through a simple diagram the inherent electronic materiality of the online territory.
 
@@ -145,7 +145,7 @@ But a look at the 1977 *Arpanet Logical Map*, the network that would evolve into
 
 **Arpanet Logical Map*, 1977*
 
-Although the global territories of the online Map seem disconnected from any material reality, being accessible everywhere, the user is only consulting the map, and never owns the representation of the global territory generated by the online Map. In fact, every online map services exist only in one place, fixed, private, that can only be reached, and never more than visited, through their *uniform resource locator*, URL, commonly name as the web address. Google Maps can easily be consulted at <a href="https://maps.google.com">https://maps.google.com</a>, and this network of clearly defined addresses, explicits the nature of the online territory: a maze of privately owned physical places and electronic devices, broadcasting from material locations.
+Although the global territories of the online Map seem disconnected from any material reality, being accessible everywhere, the user is only consulting the map, and never owns the representation of the global territory generated by the online Map. In fact, every online map services exist only in one place, fixed, private, that can only be reached, and never more than visited, through their *uniform resource locator*, URL, commonly name as the web address. Google Maps can easily be consulted at https://maps.google.com, and this network of clearly defined addresses, explicits the nature of the online territory: a maze of privately owned physical places and electronic devices, broadcasting from material locations.
 
 
 Conclusion: On Creations and Appropriations of a Portrait
