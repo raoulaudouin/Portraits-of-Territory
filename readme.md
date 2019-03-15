@@ -1,12 +1,12 @@
 Portraits of Territory
 ======================
 
-- Introduction—Of One Territory and its Representations
-- I—The Drawn World
-- II—The Printed Globe
-- II—The Photographed Earth
-- IV—The Online Map
-- Conclusion—On Creations and Appropriations of a Portrait
+- Introduction: Of One Territory and its Representations
+- I. The Drawn World
+- II. The Printed Globe
+- III. The Photographed Earth
+- IV. The Online Map
+- Conclusion: On Creations and Appropriations of a Portrait
 - Sources
 
 ![Jules Verne’s Off on a Comet](images/jules-verne-off-on-a-comet.jpg)
@@ -14,12 +14,12 @@ Portraits of Territory
 *Jules Verne’s *Off on a Comet*, drawing by Paul Philippoteaux, 1877*
 
 
-Introduction—Of One Territory and its Representations
------------------------------------------------------
+Introduction: Of One Territory and its Representations
+------------------------------------------------------
 
-“The map is not the territory” was a sentence used in 1933 by the American philosopher and scientist Alfred Korzybski, along with “the word is not the thing”, to describe the posture in which one, to represent oneself a form of reality, may use an abstracted representation of this reality, crossing image and language. Korzybski did not study geography, maps or the concept of territory, but considered this example of the map and the territory to be the most alike to give a clear form to this idea.
+“The map is not the territory” was the analogy used in 1933 by American philosopher and scientist Alfred Korzybski, along with “the word is not the thing”, to describe the posture in which one, to represent oneself a form of reality, may use an abstracted representation of this reality, crossing image and language. Korzybski did not study geography, maps or the concept of territory, but considered this example of the map and the territory to be the most alike to give a clear form to his idea.
 
-The territory here could be understood as a space physically and culturally appropriated by man, and the map its representation.
+The territory could be understood here as a space physically and culturally appropriated by man, and the map its representation.
 
 In *Simulacra and Simulation* [1], Jean Baudrillard establishes three distinctive historical eras of relations between realities and their representations—*simulacras*. A premodernity during which myths followed realities through interpreted, inaccurate and unique objects; modernity and industrial revolution through which reality and its representation tend to lose distinction in the march of science and the mass reproduction of goods; and postmodernity, with which the simulacra precedes its reality. An *hyperreality* taking forms, according to Baudrillard, through pictures of war in mass medias, the stock markets’ flow of money informations, and the relation between a territory and its map:
 
@@ -34,7 +34,7 @@ In *The Gutenberg Galaxy* [2] and later in *Understanding Media: The Extensions 
 Baudrillard’s point of view takes under McLuhan’s reading another perspective: if ideas of a unique, global territory only existed through their representations, they did not evolve following an historical continuous path. From different mediums of representation emanate different perceptions of the territory. For the importance they play in the representation of the territory, four different mediums stand out: the illustration, the printing, the photography and the website. Those four mediums influence a different perception, a different message of territory, independently from the historical, cultural, social and political context through which they deliver the idea of a unique territory. To differentiate those different perceptions, one can use four different words, four different elements of language linked to different mediums: the drawn World, the printed Globe, the photographed Earth and the online Map.
 
 
-I—The Drawn World
+I. The Drawn World
 -----------------
 
 The drawings carry the idea of unique territory as a “World”. The World is not a land, a space. Accurate shapes and borders are thus superficial in the territory as World: there is no reason to locate something geographically on the World. The World is detached from reality and does not serve any functional meaning, the World acknowledges its nature as a story. It manifests itself into a narration, a unique plot to support one specific point of view, the single perspective of an author on one idea of unique territory, through evolving esthetics and choices of representation. Because it manifest itself through drawing, the World is also represented through a single object, a piece of art: a drawn World, through its uniqueness, its authorship and its narrative nature has an aura. The drawn World borrows structures to the real world: geographical, cultural, and natural detail to build a unique artifact disconnected from its reality.
@@ -58,7 +58,7 @@ Approximatively five centuries later, Saul Steinberg’s cover for The New Yorke
 As such the drawn World always takes a certain distance to its reality, being the point of view of an author, far from the restrictions of functionality in a unique thus non dominant posture, it interprets within an author’s perspective the idea of a unique territory.
 
 
-II—The Printed Globe
+II. The Printed Globe
 --------------------
 
 The printed Globe appears at the same time than the development of printing processes, great discoveries and technical achievements. The discovery of America and its report on the printed Globe makes a break in the representation of the territory: flattened on a flat rectangle of paper, the Globe becomes an unfinished image that has to be filled with conquest and discoveries. Two races goes aside: discovering new territories, establishing borders of continents and limits of oceans; and filling with upcoming lines the missing parts to be linked of the printed Globe.
@@ -94,7 +94,7 @@ The omnipresence of the mathematical Mercator projection, deforming the sizes of
 Marcel Broodthaers in its *Monde Poétique* (Poetical World) emphasis on the distortion created by the juxtaposition of the ocean natural lines and the national borders, presented on a absolute same scale, revealing by an apparent writing mistake (“Monde Politique” becomes “Monde Poétique”) the poetical arbitrariness and artificiality of the political printed Globe. An action that could recall René Magritte’s *The Treachery of Images*, on which the act of writing reveals the gap between the reality of an object and the shifted state of reality of its representation.
 
 
-III—The Photographed Earth
+IIII. The Photographed Earth
 --------------------------
 
 ![First television picture of Earth from space](images/earth-from-satellite-tiros-1.jpg.jpg)
@@ -116,7 +116,7 @@ But the territory generated by the photographed Earth embedded another layer of 
 Ironically, the first photography of Earth was taken by a United States program, from a german V-2 rocket, that would be a result of the trouble experiences of World War II, and be used as a storyline by Thomas Pynchon, in *Gravity’s Rainbow* [8] to emphasis the increasingly complex experiences of reality, that were brought by scientific theories, challenging the installed law of mathematical norms of reality such as the theory of relativity, making relative and complex the idea of space regarding time, or the quantum mechanics, introducing randomness in the physical manifestations of particles.
 
 
-IV—The Online Map
+IV. The Online Map
 -----------------
 
 The online map territory sanctuaries the triumph of the individual using the map as a tool to locate and orientate oneself. The whole territory it generates is centered on the one spectator of the online tool. The tools of the zoom and the drag allow and influence the user of the online Map to center the territory on himself. The stiffness of the scale, which characterizes all the over representations of territory blows up as the spectator of the online map zooms from a macro representation of the territory, inherit from the Mercator projection of the printed Globe, to the street one locates oneself. The loading of the U.S. based Google Maps, the Chinese based Baiku and other online Map services from a fixed computer as well as a portable devices center the map on the spectator. The informations overlay and collapse each other: real-time traffic, political borders, photographic Earth views, and commercial informations. But thus, the online Map does not challenge the spectator: as an algorithmic designed tool, the map proposes the spectator what he needs, hiding its limits, its unreachable parts under an overload of informations. The Map seems to become, through its presets, the personal territory of its user, only taking form through its functionalities.
@@ -146,8 +146,8 @@ But a look at the 1977 *Arpanet Logical Map*, the really early network that woul
 Although the global territories of the online Map seem disconnected from any material reality, being accessible everywhere, the user is only consulting the map, and never owns the representation of the global territory generated by the online Map. In fact, every online map services exist only in one place, fixed, private, that can only be reached, and never more than visited, through their uniform resource locator, URL, commonly name as the web address. Google maps can easily be consulted at <a href="https://maps.google.com">https://maps.google.com</a>, and this network of clearly defined addresses, explicits the nature of the online territory: a maze of private owned physical places and electronic devices, broadcasting from material locations.
 
 
-Conclusion—Creations and Appropriations of a Portrait
------------------------------------------------------
+Conclusion: On Creations and Appropriations of a Portrait
+---------------------------------------------------------
 
 A common feature to these portrait types of ideal territories can be found in the gap between the ideas of territory—the ideology they conveyed, the reasons for which they where created within a certain context; and the ones they would be appropriated for, in another context.
 
