@@ -1,7 +1,7 @@
 Portraits of Territory
 ======================
 
-- Introduction: Of One Territory and its Representations!
+- Introduction: Of One Territory and its Representations
 - I. The Drawn World
 - II. The Printed Globe
 - III. The Photographed Earth
